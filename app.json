@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "FA22LabMidExam",
-    "slug": "FA22LabMidExam",
+    "name": "LabMid",
+    "slug": "LabMid",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
