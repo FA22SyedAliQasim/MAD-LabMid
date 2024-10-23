@@ -37,7 +37,7 @@ const styles = StyleSheet.create({
   },
   ayahsContainer: {
     padding: 16,
-    backgroundColor: '#f8f8f8',
+    backgroundColor: '#fff',
   },
   ayahItem: {
     flexDirection: 'row',
@@ -47,15 +47,13 @@ const styles = StyleSheet.create({
   ayahNumberContainer: {
     width: 28,
     height: 28,
-    borderRadius: 20,
-    backgroundColor: '#d4adff',
     justifyContent: 'center',
     alignItems: 'center',
     marginRight: 12,
     marginTop: 2,
   },
   ayahNumber: {
-    color: '#fff',
+    color: '#5400b2',
     fontSize: 18,
     fontWeight: '600',
   },

@@ -69,19 +69,20 @@ const styles = StyleSheet.create({
     padding: 16,
   },
   greeting: {
-    fontSize: 16,
+    fontSize: 20,
     color: '#666',
   },
   userName: {
     fontSize: 24,
     fontWeight: 'bold',
     color: '#333',
+    marginLeft: '10%',
     marginTop: 4,
   },
   lastReadCard: {
     margin: 16,
     padding: 16,
-    backgroundColor: '#6b3fa0',
+    backgroundColor: '#c724ff',
     borderRadius: 12,
   },
   lastReadLabel: {

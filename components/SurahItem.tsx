@@ -62,7 +62,7 @@ const styles = StyleSheet.create({
     backgroundColor: '#fff',
     marginBottom: 1,
     borderBottomWidth: 1,
-    borderBottomColor: '#eee',
+    borderBottomColor: '#484848',
   },
   header: {
     flexDirection: 'row',
@@ -72,8 +72,8 @@ const styles = StyleSheet.create({
   numberContainer: {
     width: 40,
     height: 40,
-    borderRadius: 20,
-    backgroundColor: '#f0e6ff',
+    borderRadius: 0,
+    backgroundColor: '#fff',
     justifyContent: 'center',
     alignItems: 'center',
     marginRight: 12,
@@ -98,6 +98,7 @@ const styles = StyleSheet.create({
   },
   arabicName: {
     fontSize: 18,
+    fontWeight: 'bold',
     color: '#6b3fa0',
     marginLeft: 8,
   },
